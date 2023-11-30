@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pycalc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-30T10:13:14.115719462+01:00"
+    description: A Helm chart for Kubernetes
+    digest: cdc61e67215e0f6f01ffa6993d8eae9a0cf247dd87e4e397d27dde23b9da41a4
+    name: pycalc
+    type: application
+    urls:
+    - https://rafatorices.github.io/example_helm_pycalculator/pycalc-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-30T10:13:14.115379263+01:00"
