@@ -29,7 +29,7 @@ This repo is also a helm chart repository named `pycalc`
 To add this repo to your helm client, run the following command:
 
 ```bash
-helm repo add pycalc https://rafaeltorices.github.io/example-helm-pycalculator/
+helm repo add pycalc https://rafaeltorices.github.io/example_helm_pycalculator/
 ```
 
 You can then install the chart by running:
